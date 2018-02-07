@@ -1,6 +1,5 @@
-# Forked from [Udacity Nanodegree](https://github.com/udacity/machine-learning)
+# Project: Train a Smartcab How to Drive
 # Reinforcement Learning
-## Project: Train a Smartcab How to Drive
 
 ### Install
 
@@ -35,13 +34,13 @@ An optimized Q-Learning driving agent that will navigate a *Smartcab* through it
 
 A visualization framework has also been imported to analyze the results.
 
-#### With no Learning
+#### * With no Learning
 ![No training](images/no_training.png)
 
-#### With Q-Learning
+#### * With Q-Learning
 ![learning](images/training.png)
 
-#### Improved Q-Learning
+#### * Improved Q-Learning
 ![Improved](images/optimized.png)
 
 #### Logs
@@ -51,3 +50,5 @@ A visualization framework has also been imported to analyze the results.
 * The logs for training with Q-learning can be found at [logs/sim_default-learning.csv](logs/sim_default-learning.csv)
 
 * The logs for training with improved Q-learning can be found at [logs/sim_improved-learning.csv](logs/sim_improved-learning.csv)
+
+#### Note: Forked from [Udacity Nanodegree](https://github.com/udacity/machine-learning)
